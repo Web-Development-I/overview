@@ -1,7 +1,9 @@
 .collection-item ul.browser-default{
-    height: 175px;
+    height: 135px;
     overflow: hidden;
 }
-li.collection-header{
+.collection.with-header .collection-header{
     height: 110px;
+    background-color: black;
+    color: white;
 }

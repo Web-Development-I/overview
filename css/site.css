@@ -1,6 +1,9 @@
 h1 {
   font-size: 2rem;
 }
+h2 {
+  font-size: 1.6rem;
+}
 .collection-item ul.browser-default {
   min-height: 135px;
   overflow: hidden;
@@ -13,7 +16,7 @@ h1 {
 
 /* Correctie witruimte header per les: witruimte onderaan vergroten */
 /********************************************************************/
-.collection-header h5 {
+.collection-header h2 {
   margin-top: 7px;
 }
 

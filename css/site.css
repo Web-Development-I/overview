@@ -1,3 +1,6 @@
+h1 {
+  font-size: 2rem;
+}
 .collection-item ul.browser-default {
   min-height: 135px;
   overflow: hidden;
